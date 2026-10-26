@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Shervin%20Nakhaeenia&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLM%20%26%20RAG%20Developer&descAlignY=60&descSize=20" width="100%" />
+<img src="assets/header.svg" width="100%" alt="Shervin Nakhaeenia - AI Engineer | LLM & RAG Developer" />
 
 <a href="https://github.com/shervinnkh">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+LLM-powered+agents+%F0%9F%A4%96;Shipping+production+RAG+systems+%F0%9F%93%9A;Cutting+support+time+by+90%25+%E2%9A%A1;Turning+business+problems+into+AI+products+%F0%9F%9A%80" alt="Typing SVG" />
@@ -15,7 +15,6 @@
 
 <a href="#-projects"><kbd> &nbsp;🚀 Projects&nbsp; </kbd></a>
 <a href="#-tech-stack"><kbd> &nbsp;🧠 Skills&nbsp; </kbd></a>
-<a href="#-github-stats"><kbd> &nbsp;📊 Stats&nbsp; </kbd></a>
 <a href="#-contact"><kbd> &nbsp;📬 Contact&nbsp; </kbd></a>
 
 </div>
@@ -26,9 +25,9 @@
 
 <table>
   <tr>
+    <td align="center"><h1>6</h1><sub>Years of<br/>experience</sub></td>
+    <td align="center"><h1>~20</h1><sub>Programming<br/>languages</sub></td>
     <td align="center"><h1>12+</h1><sub>Client projects<br/>delivered</sub></td>
-    <td align="center"><h1>90%</h1><sub>Support workload<br/>reduced</sub></td>
-    <td align="center"><h1>30s</h1><sub>Response time<br/>(from 10 min)</sub></td>
     <td align="center"><h1>2021</h1><sub>Freelancing<br/>since</sub></td>
   </tr>
 </table>
@@ -107,25 +106,6 @@
    </td>
   </tr>
 </table>
-
-<details>
-<summary><b>🔍 Click to see how the WhatsApp assistant works</b></summary>
-<br/>
-
-```mermaid
-flowchart LR
-    A([👤 Customer<br/>text / voice]) --> B[WhatsApp API]
-    B --> C{{FastAPI<br/>Webhook}}
-    C --> D[🎙️ Speech → Text]
-    D --> E[🧭 LangGraph<br/>Router]
-    E -->|price inquiry| F[✈️ Live Flight<br/>Price Lookup]
-    E -->|complex request| G[🧑‍💼 Human Agent]
-    F --> H[✍️ OpenAI<br/>Response]
-    H --> B
-    E -.-> I[(📈 Logs &<br/>Monitoring)]
-```
-
-</details>
 
 <br/>
 
@@ -211,32 +191,19 @@ flowchart LR
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=shervinnkh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0:0f0c29,100:24243e&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shervinnkh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0:0f0c29,100:24243e" />
-
-<img src="https://streak-stats.demolab.com/?user=shervinnkh&theme=tokyonight&hide_border=true&background=0f0c29" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shervinnkh&theme=tokyo-night&hide_border=true&area=true&bg_color=0f0c29" width="100%" />
-
-</div>
-
-<br/>
-
 ## 📬 Contact
 
 <div align="center">
 
 <a href="mailto:shervinnakhaeenia1385@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shervin-nakhaee-nia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://t.me/nakhaeenia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://github.com/shervinnkh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
 <sub>💡 *Have a business problem? Let's turn it into an AI product.*</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
