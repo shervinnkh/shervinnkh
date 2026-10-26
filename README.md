@@ -163,8 +163,6 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,sklearn,pandas,numpy,opencv,postgres,docker,git,github&theme=dark&perline=12" />
-
 </div>
 
 <br/>
