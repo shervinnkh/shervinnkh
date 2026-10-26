@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Shervin Nakhaeenia - AI Engineer | LLM & RAG Developer" />
 
 <a href="https://github.com/shervinnkh">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+LLM-powered+agents+%F0%9F%A4%96;Shipping+production+RAG+systems+%F0%9F%93%9A;Cutting+support+time+by+90%25+%E2%9A%A1;Turning+business+problems+into+AI+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&height=50&lines=Building+LLM-powered+agents+%F0%9F%A4%96;Shipping+production+RAG+systems+%F0%9F%93%9A;Turning+business+problems+into+AI+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
