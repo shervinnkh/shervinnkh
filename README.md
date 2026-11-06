@@ -59,17 +59,21 @@
    </td>
     <td width="50%" valign="top">
 
-### 📝 Auto-Grader for Programming Exams
-`OCR + Vision + Code runner`
+### 🌐 Persian AI Chatbot for WordPress
+`RAG + Agent · Open source`
 
-- ⏱️ Grading time **days → minutes**
-- 🖼️ Code extracted from images (OCR + vision)
-- 🐞 Syntax & logic error detection
-- ✅ Runs test cases, auto-scores
-- 📋 Evaluation summary per student
+- 📚 Answers from the site's own products, posts, pages and uploaded documents (RAG)
+- 💲 Live price/stock lookup instead of stale knowledge
+- 🧑‍💼 Human takeover, voice & image messages, real-time chat
+- 📊 Built-in monitoring: tokens, cost, errors, RAG, queues
+- 🔄 Auto-update from GitHub Releases
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,cpp&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,wordpress,docker&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-7c3aed?style=flat-square" />
+<br/>
+<a href="https://github.com/shervinnkh/wp-persian-chatbot"><img src="https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
    </td>
   </tr>
@@ -92,16 +96,17 @@
    </td>
     <td width="50%" valign="top">
 
-### 🏋️ Gym Personal Assistant
-`Computer Vision`
+### 📝 Auto-Grader for Programming Exams
+`OCR + Vision + Code runner`
 
-- 🦴 Pose estimation with **YOLO Pose**
-- 📐 Joint-angle analysis in real time
-- 🔔 Instant feedback to correct movement
-- 🛡️ Lower risk of injury
+- ⏱️ Grading time **days → minutes**
+- 🖼️ Code extracted from images (OCR + vision)
+- 🐞 Syntax & logic error detection
+- ✅ Runs test cases, auto-scores
+- 📋 Evaluation summary per student
 
-<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/YOLO_Pose-00FFFF?style=flat-square&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,cpp&theme=dark" /><br/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
 
    </td>
   </tr>
